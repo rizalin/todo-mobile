@@ -1,3 +1,3 @@
 # Screenshot
 
-<img src="/Screenshots.png" />
+<img src="/Screenshot.png" />
